@@ -9,7 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=duckddud213)](https://solved.ac/duckddud213)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={duckddud213}&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckddud213&layout=compact&theme=onedark)
