@@ -16,4 +16,4 @@
 
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ragabys&postId=default&theme=gatsby)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ragabys&theme=gatsby)](https://github.com/loosie/github-readme-tistory-card)
