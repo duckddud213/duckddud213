@@ -11,7 +11,7 @@
 
 pip install -r requirements.txt
 uvicorn main:app --reload
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={duckddud213}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckddud213&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckddud213&layout=compact&theme=onedark)
