@@ -1,7 +1,7 @@
 
 <details>
 <summary>
-  💯*제 상태는요..*
+  💯 _제 상태는요.._
 </summary>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
