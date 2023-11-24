@@ -1,7 +1,7 @@
 
 <details>
 <summary>
-  💯 _제 상태는요.._
+  💯
 </summary>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -16,4 +16,4 @@
 
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={ragabys}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ragabys&postId=default&theme=gatsby)](https://github.com/loosie/github-readme-tistory-card)
