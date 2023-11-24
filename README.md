@@ -9,6 +9,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=duckddud213)](https://solved.ac/duckddud213)
 
+pip install -r requirements.txt
+uvicorn main:app --reload
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={duckddud213}&theme=dark)
 
 
