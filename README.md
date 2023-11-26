@@ -29,5 +29,5 @@
  
 </details><br/>
 
-아무거나 다 적는 블로그
+<h5>아무거나 다 적는 블로그</h5>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ragabys&theme=gatsby)](ragabys.tistory.com)
