@@ -74,7 +74,7 @@ markdown_text = """
   <br/>
   
  
-</details><br/><br/>
+</details><br/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
