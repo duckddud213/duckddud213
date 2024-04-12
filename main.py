@@ -6,7 +6,9 @@ MAX_POST = 5
 
 markdown_text = """
 
-markdown_text += f"test code 입력중<br/>\n"
+markdown_text += f"<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Status
+</summary>"
 
 
 ## ✅ Latest Blog Post
