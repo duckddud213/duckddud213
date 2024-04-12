@@ -1,7 +1,5 @@
 
 
-markdown_text +=
-
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Status
@@ -70,12 +68,10 @@ markdown_text +=
   <br/>
   
  
-</details><br/>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ragabys&theme=gatsby)](ragabys.tistory.com)
+</details><br/><br/>
 
 
-## ✅ Latest Blog Post
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
 [2024/02/20 - BOJ 2023 신기한 소수 (JAVA)](https://ragabys.tistory.com/37) <br/>
 [2024/02/19 - BOJ 1644 소수의 연속합 (JAVA)](https://ragabys.tistory.com/36) <br/>
