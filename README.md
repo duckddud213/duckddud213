@@ -73,9 +73,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
+[2024/03/06 - BOJ 10942 팰린드롬? (JAVA)](https://ragabys.tistory.com/43) <br/>
 [2024/02/20 - BOJ 2023 신기한 소수 (JAVA)](https://ragabys.tistory.com/37) <br/>
 [2024/02/19 - BOJ 1644 소수의 연속합 (JAVA)](https://ragabys.tistory.com/36) <br/>
 [2024/02/14 - [알고리즘] 2024 KAKAO WINTER INTERNSHIP 가장 많이 받은 선물 (Java)](https://ragabys.tistory.com/35) <br/>
 [2024/02/01 - [알고리즘] 2023 Kakao Blind 미로 탈출 명령어 (Java)](https://ragabys.tistory.com/34) <br/>
 [2024/01/24 - [알고리즘] 2023 Kakao Blind 택배 배달과 수거하기 (Java)](https://ragabys.tistory.com/33) <br/>
-[2024/01/17 - [알고리즘] 2023 Kakao Blind 이모티콘 할인행사 (Java)](https://ragabys.tistory.com/32) <br/>
