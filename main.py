@@ -81,7 +81,6 @@ markdown_text = """
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
 """  # list of blog posts will be appended here
-f.write("현재 시간 : datetime.now() 기준 <br/>\n")
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
