@@ -82,6 +82,8 @@ markdown_text = """
 
 """  # list of blog posts will be appended here
 
+markdown_text += f"[{datetime.now() 기준}]<br/>\n"
+
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
