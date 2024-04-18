@@ -1,5 +1,6 @@
 import feedparser, time
 from datetime import datetime
+from datetime import timedelta
 
 URL = "https://ragabys.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
@@ -82,8 +83,10 @@ markdown_text = """
 
 """  # list of blog posts will be appended here
 
+now = datetime.now()
 currentTime = datetime.now() + datetime.timedelta(hours=9)
-markdown_text += f"[{currentTime} 기준]<br/>\n"
+nowDatetime = currentTime.strftime('%Y-%m-%d %H:%M:%S')
+markdown_text += f"[{nowDatetime} 기준]<br/>\n"
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
