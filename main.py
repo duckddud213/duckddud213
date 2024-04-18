@@ -84,7 +84,7 @@ markdown_text = """
 """  # list of blog posts will be appended here
 
 now = datetime.now()
-diffdays = timedelta(days=1)
+diffdays = timedelta(hours=9)
 currentTime = now + diffdays
 nowDatetime = currentTime.strftime('%Y-%m-%d %H:%M:%S')
 markdown_text += f"[{nowDatetime} 기준]<br/>\n"
