@@ -73,7 +73,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
-#### [2024-05-24 10:01:33 기준]<br/>
+#### [2024-05-25 10:00:14 기준]<br/>
 [2024/05/15 - [Android] Android studio WearOS App (갤럭시 워치 앱) 빌드 방법](https://ragabys.tistory.com/52) <br/>
 [2024/05/13 - 2024년 상반기 하나금융TI 금융IT 서비스 개발/운영 공채 회고 3 - 2차 면접 전형](https://ragabys.tistory.com/51) <br/>
 [2024/04/30 - 2024년 상반기 하나금융TI 금융IT 서비스 개발/운영 공채 회고 2 - 1차 면접 전형](https://ragabys.tistory.com/50) <br/>
