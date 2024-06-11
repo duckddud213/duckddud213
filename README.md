@@ -73,10 +73,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
-#### [2024-06-10 10:05:23 기준]<br/>
+#### [2024-06-11 10:04:02 기준]<br/>
+[2024/06/03 - BOJ 11780 플로이드2 (JAVA)](https://ragabys.tistory.com/59) <br/>
+[2024/06/02 - BOJ 17182 우주 탐사선 (JAVA)](https://ragabys.tistory.com/58) <br/>
 [2024/05/28 - BOJ 11265 끝나지 않는 파티 (JAVA)](https://ragabys.tistory.com/57) <br/>
 [2024/05/15 - [Android] Android studio WearOS App (갤럭시 워치 앱) 빌드 방법](https://ragabys.tistory.com/52) <br/>
 [2024/05/13 - 2024년 상반기 하나금융TI 금융IT 서비스 개발/운영 공채 회고 3 - 2차 면접 전형](https://ragabys.tistory.com/51) <br/>
 [2024/04/30 - 2024년 상반기 하나금융TI 금융IT 서비스 개발/운영 공채 회고 2 - 1차 면접 전형](https://ragabys.tistory.com/50) <br/>
-[2024/04/28 - 2024년 상반기 하나금융TI 금융IT 서비스 개발/운영 공채 회고 1 - 서류전형, 필기전형](https://ragabys.tistory.com/49) <br/>
-[2024/04/24 - [알고리즘] 2022 KAKAO TECH INTERNSHIP 코딩테스트 공부 (Java)](https://ragabys.tistory.com/48) <br/>
