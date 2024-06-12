@@ -18,8 +18,6 @@
 
 ![duckddud213's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckddud213&show_icons=true&theme=radical)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduckddud213%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </details>
 
 <details>
@@ -75,7 +73,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
-#### [2024-06-13 01:14:47 기준]<br/>
+#### [2024-06-13 01:15:38 기준]<br/>
 [2024/06/11 - BOJ 16236 아기 상어 (JAVA)](https://ragabys.tistory.com/60) <br/>
 [2024/06/03 - BOJ 11780 플로이드2 (JAVA)](https://ragabys.tistory.com/59) <br/>
 [2024/06/02 - BOJ 17182 우주 탐사선 (JAVA)](https://ragabys.tistory.com/58) <br/>
