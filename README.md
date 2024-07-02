@@ -75,7 +75,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
-#### [2024-07-01 10:11:39 기준]<br/>
+#### [2024-07-02 10:04:35 기준]<br/>
 [2024/06/22 - [알고리즘] BOJ 2812 크게 만들기 (JAVA)](https://ragabys.tistory.com/64) <br/>
 [2024/06/13 - [알고리즘] A* 알고리즘(A star 알고리즘)이 뭘까?](https://ragabys.tistory.com/63) <br/>
 [2024/06/12 - [알고리즘] BOJ 2437 저울 (JAVA)](https://ragabys.tistory.com/61) <br/>
