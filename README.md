@@ -75,7 +75,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
-#### [2024-09-13 10:11:39 기준]<br/>
+#### [2024-09-14 10:10:33 기준]<br/>
 [2024/07/20 - [Android] HLS in Android](https://ragabys.tistory.com/67) <br/>
 [2024/07/18 - [Android] Android Multi-Module](https://ragabys.tistory.com/66) <br/>
 [2024/06/22 - [알고리즘] BOJ 2812 크게 만들기 (JAVA)](https://ragabys.tistory.com/64) <br/>
