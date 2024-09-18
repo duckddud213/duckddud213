@@ -75,7 +75,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
-#### [2024-09-17 09:59:42 기준]<br/>
+#### [2024-09-18 10:11:36 기준]<br/>
 [2024/09/16 - 아직 늦지 않았다](https://ragabys.tistory.com/70) <br/>
 [2024/09/16 - [알고리즘] BOJ 3197 백조의 호수 (JAVA)](https://ragabys.tistory.com/69) <br/>
 [2024/07/20 - [Android] HLS in Android](https://ragabys.tistory.com/67) <br/>
