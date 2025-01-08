@@ -16,9 +16,9 @@ markdown_text = """
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duckddud213)](https://solved.ac/duckddud213)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duckddud213)](https://solved.ac/duckddud213)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ragabys)](https://solved.ac/ragabys)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckddud213&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckddud213&theme=dark)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ragabys&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckddud213&layout=compact&theme=onedark)
