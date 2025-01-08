@@ -8,9 +8,9 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duckddud213)](https://solved.ac/duckddud213)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duckddud213)](https://solved.ac/duckddud213)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ragabys)](https://solved.ac/ragabys)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckddud213&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckddud213&theme=dark)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ragabys&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckddud213&layout=compact&theme=onedark)
@@ -75,7 +75,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> 블로그 최신 글
 
-#### [2025-01-08 10:15:40 기준]<br/>
+#### [2025-01-08 20:27:19 기준]<br/>
 [2024/09/29 - [Android] 프로젝트 개발 기록1 - splash animation 그리기 / github에 google-services.json 잘못 올림](https://ragabys.tistory.com/76) <br/>
 [2024/09/16 - [알고리즘] BOJ 3197 백조의 호수 (JAVA)](https://ragabys.tistory.com/69) <br/>
 [2024/07/20 - [Android] HLS in Android](https://ragabys.tistory.com/67) <br/>
